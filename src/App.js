@@ -66,7 +66,12 @@ function App() {
 
   return (
     <div>
-      <h1>Leaflet</h1>
+      <div className="header">
+        <img src="https://lkyspp.nus.edu.sg/Sitefinity/WebsiteTemplates/LKY/App_Themes/LKY/images/logo.png" alt=""/>
+        <h1>Leaflet Demo for Crowdsourcing Platform</h1>
+        <img src="https://cde.nus.edu.sg/arch/wp-content/themes/nus-doa-twentynineteen-2/src/img/nav/logo-bw.png" alt=""/>
+        <img src="https://bschool.nus.edu.sg/real-estate/wp-content/themes/biz-theme-real-estate/images/biz-logo.png" alt=""/>
+      </div>
       <MapContainer center={[1.3187311,103.8167564]} zoom={13}>
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

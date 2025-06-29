@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Li Ka Shing Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8174813368862, 1.319602261909992]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "CJ Koh Law Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.81818386834289, 1.3187369690402022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "SDE 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7705250427262, 1.2978929484312403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "SDE 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.77066874167724, 1.2973238676166687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "BIZ 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.77414229931975, 1.292495235079869]
+      }
+    }
+  ]
+}
